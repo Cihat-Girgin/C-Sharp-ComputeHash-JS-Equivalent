@@ -1,2 +1,2 @@
-# C--ComputeHash-JS-Equivalent
+# CSharp-ComputeHash-JS-Equivalent
 Equivalent version of SHA256 ComputeHash (from C#) for JavaScript
